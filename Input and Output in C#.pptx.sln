@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Input and Output in C#.pptx", "Input and Output in C#.pptx.csproj", "{7464B496-670F-4379-ADC7-514D279C3C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7464B496-670F-4379-ADC7-514D279C3C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7464B496-670F-4379-ADC7-514D279C3C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7464B496-670F-4379-ADC7-514D279C3C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7464B496-670F-4379-ADC7-514D279C3C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9017E54B-CCF7-4DC0-8253-0DA1CE3D7470}
+	EndGlobalSection
+EndGlobal
